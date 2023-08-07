@@ -405,9 +405,7 @@ span{
 
 @media (max-width:480px){
      *{
-    
          overflow:hidden;
-         margin:0 -80px;
     }
     .top{
         height: 130px;
