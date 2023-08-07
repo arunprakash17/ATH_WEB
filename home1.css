@@ -405,7 +405,7 @@ span{
 
 @media (max-width:480px){
      *{
-        width:100vw !important;
+    
          overflow:hidden;
          margin:0 -80px;
     }
