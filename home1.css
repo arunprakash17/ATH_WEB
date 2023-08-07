@@ -404,6 +404,9 @@ span{
 }
 
 @media (max-width:480px){
+     *{
+        width:100% !important;
+    }
     .top{
         height: 130px;
     }
